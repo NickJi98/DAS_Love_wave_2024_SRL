@@ -1,0 +1,14 @@
+*.DS_Store
+
+# Data directory
+SJC_xcorr_data/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Python modules
+*/__pycache__/
+
+# MATLAB files
+*.asv
